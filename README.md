@@ -1,6 +1,6 @@
 # pyprojects
 
-#### Python Software Engineer Roadmap
+#### Python Software Engineer Roadmap & Projects
 
 Python Scripts projects
 
